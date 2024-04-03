@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# npm installs before start!:
+
+- npm install react-router-dom
+- npm install @mui/icons-material
+npm install @emotion/react @emotion/styled
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
