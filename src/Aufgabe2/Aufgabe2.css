@@ -1,0 +1,61 @@
+.burger-builder {
+    text-align: center;
+  }
+  
+  .ingredients {
+    margin-bottom: 20px;
+  }
+  
+  .burger-preview {
+    margin-top: 20px;
+  }
+  
+  .burger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .burger > div {
+    width: 80px;
+    height: 20px;
+    background-color: #b5651d;
+    margin-bottom: 5px;
+  }
+  
+  .cheese {
+    background-color: #f4d004;
+  }
+  
+  .lettuce {
+    background-color: #5eba7d;
+  }
+  
+  .tomato {
+    background-color: #e84b34;
+  }
+  
+  .onion {
+    background-color: #ffffff;
+  }
+  
+  .pickles {
+    background-color: #bdf24c;
+  }
+  
+  .burger-bun-top {
+    width: 100px;
+    height: 30px;
+    background-color: #f9ea92;
+    border-top: 8px solid #d2b55b;
+    border-radius: 15px 15px 0 0;
+  }
+  
+  .burger-bun-bottom {
+    width: 100px;
+    height: 30px;
+    background-color: #f9ea92;
+    border-bottom: 8px solid #d2b55b;
+    border-radius: 0 0 15px 15px;
+  }
+  

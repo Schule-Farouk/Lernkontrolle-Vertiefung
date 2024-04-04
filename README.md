@@ -6,9 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - npm install react-router-dom
 - npm install @mui/icons-material
-npm install @emotion/react @emotion/styled
-
-
+- npm install @emotion/react @emotion/styled
+- npm install react-calendar react-select
 
 ## Available Scripts
 
